@@ -14,15 +14,14 @@ Dashboard Overview: View key business metrics at a glance.
 
 Copy
 Edit
-git clone https://github.com/your-username/A-Cube-CRM.git
 cd A-Cube-CRM
- Install Dependencies
+Install Dependencies
 
 Copy
 Edit
 composer install
 npm install
- Set Up Environment
+Set Up Environment
 Copy .env.example and create a new .env file:
 
 
@@ -73,7 +72,7 @@ Run PHPUnit tests to ensure everything is working:
 Copy
 Edit
 php artisan test
- Contributing
+Contributing
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Make your changes.
